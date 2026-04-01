@@ -385,10 +385,10 @@ This project is licensed under the MIT License.
 
 ## Authors
 
-**Birat Sapkota** - 49768  
-**Nageshwor Chaudhary** - 49778  
-**Nishan Bastola** - 49781  
-**Sonu Alam** - 49791  
+**Birat Sapkota**    
+**Nageshwor Chaudhary**   
+**Nishan Bastola**    
+**Sonu Alam**  
 
 **Supervisor:** Er. Krishna Kumar Jha
 
